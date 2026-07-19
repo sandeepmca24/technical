@@ -1,7 +1,9 @@
 # Certifications
 
-(Placeholder) — Professional certifications and credentials.
+List of professional certifications and credentials (add certificates and dates):
 
----
+- Azure Solutions Architect (example)
+- AWS Solutions Architect (example)
+- Shopify Plus Developer Partner (example)
 
-**Source file:** docs/original/50-page-sandeep-career.docx
+Add scanned certificates or badge links in assets/.

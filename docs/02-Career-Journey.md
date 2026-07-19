@@ -1,9 +1,11 @@
 # Career Journey
 
-(Placeholder) — Content to be added from the 50-page source document.
+I began my professional career in enterprise web and e-commerce development, progressively taking on architecture and leadership responsibilities. Over two decades I have worked across agencies, product companies and large enterprises delivering global digital commerce programs and enterprise modernization efforts.
 
-You can paste the Career Journey section here or I can convert it from the .docx and populate this page.
+Highlights:
 
----
+- Early career: full‑stack web development and integration work (PHP, Node.js, MySQL)
+- Mid career: solution architecture for commerce platforms and integrations
+- Recent years: technical leadership, enterprise architecture, cloud and AI engineering
 
-**Source file:** docs/original/50-page-sandeep-career.docx
+I focus on aligning technical initiatives to business outcomes and enabling teams through architecture governance, mentoring, and scalable platform design.

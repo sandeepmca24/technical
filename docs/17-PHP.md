@@ -1,7 +1,7 @@
 # PHP
 
-(Placeholder) — PHP, Magento/Adobe Commerce and related topics.
+PHP is used primarily for Adobe Commerce (Magento) and legacy systems:
+- Extension development, module architecture
+- Performance strategies (opcache, Redis, database tuning)
 
----
-
-**Source file:** docs/original/50-page-sandeep-career.docx
+When modernizing, consider strangler pattern and incremental replacement with services.

@@ -1,7 +1,7 @@
 # Headless Commerce
 
-(Placeholder) — Headless commerce approaches and implementations.
+Headless approaches decouple the frontend from the commerce engine, enabling:
+- Faster iteration on customer experiences
+- Omnichannel delivery (web, mobile, in-store)
 
----
-
-**Source file:** docs/original/50-page-sandeep-career.docx
+Technologies: GraphQL, REST, Jamstack frontends (Next.js, Nuxt), server-side rendering (SSR) where SEO matters.

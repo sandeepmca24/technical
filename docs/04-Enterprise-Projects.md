@@ -1,7 +1,17 @@
 # Enterprise Projects
 
-(Placeholder) — Enterprise-grade project writeups and summaries.
+This section captures selected enterprise projects, outcomes, and architectural approaches.
 
----
+## LED Configurator (TP Vision)
+- Purpose: interactive product customization and visualization
+- Tech: Nuxt/Vue, Strapi CMS, AWS services
+- Outcome: improved conversion through guided product discovery
 
-**Source file:** docs/original/50-page-sandeep-career.docx
+## Shoppers Stop Digital Commerce (Techouts)
+- Purpose: enterprise e-commerce platform for a major retail chain
+- Tech: Adobe Commerce / Magento, integrations with OMS and payment providers
+- Outcome: scalable commerce platform supporting omnichannel operations
+
+## Global Commerce Integrations
+- Integration patterns for ERPs, PIMs, OMS, and marketing platforms
+- Emphasis on idempotent, observable, and secure API integrations

@@ -1,7 +1,9 @@
-# Adobe Commerce
+# Adobe Commerce (Magento)
 
-(Placeholder) — Adobe Commerce / Magento 2 experience and case studies.
+Expertise in Adobe Commerce / Magento 2 architectures:
+- Multi-site and multi-tenant deployments
+- Integrations with ERP, PIM, and OMS systems
+- Performance tuning: Varnish, Redis, MySQL optimizations
+- Upgrade and extension strategies for long-term maintainability
 
----
-
-**Source file:** docs/original/50-page-sandeep-career.docx
+Typical projects include migrations, custom modules, and headless commerce frontends.

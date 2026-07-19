@@ -1,7 +1,7 @@
 # Security
 
-(Placeholder) — Security considerations, threat modeling and compliance notes.
-
----
-
-**Source file:** docs/original/50-page-sandeep-career.docx
+Security-by-design practices:
+- Secrets management and least privilege IAM
+- Secure transport (TLS everywhere) and input validation
+- Regular security reviews, dependency scanning, and patching
+- Threat modeling and compliance checks as part of delivery

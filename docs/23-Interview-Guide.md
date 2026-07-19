@@ -1,7 +1,9 @@
 # Interview Guide
 
-(Placeholder) — Interview preparation notes and question bank.
+Tips and topics to prepare:
+- Systems design: scalable architectures, tradeoffs
+- Backend fundamentals: concurrency, databases, caching
+- Frontend: performance, accessibility, component design
+- Behavioral: leadership examples, decision-making, stakeholder communication
 
----
-
-**Source file:** docs/original/50-page-sandeep-career.docx
+Practice: whiteboard system design and mock interviews.

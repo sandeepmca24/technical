@@ -1,7 +1,7 @@
 # API
 
-(Placeholder) — API design, GraphQL and REST best practices.
-
----
-
-**Source file:** docs/original/50-page-sandeep-career.docx
+API design principles:
+- Use REST or GraphQL depending on client needs
+- Design for discoverability and clear contracts
+- Rate limiting, authentication (OAuth2, JWT), and throttling
+- Contract testing and API-first development

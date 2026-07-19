@@ -1,7 +1,8 @@
 # NodeJS
 
-(Placeholder) — Node.js backend patterns and microservice examples.
+Node.js backend patterns:
+- Lightweight microservices and API layers
+- Streaming, async IO, and event-driven integrations
+- Frameworks: Express, Fastify, NestJS
 
----
-
-**Source file:** docs/original/50-page-sandeep-career.docx
+Notes: prefer small, well-instrumented services with health checks and graceful shutdown.

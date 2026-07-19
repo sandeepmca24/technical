@@ -1,7 +1,10 @@
 # Enterprise Architecture
 
-(Placeholder) — Architecture principles, reference architectures and governance notes.
+Principles:
+- Business‑aligned architecture — design to deliver measurable business outcomes
+- Evolvability — prefer modular, loosely-coupled services
+- Observability — logging, traces, and metrics are first-class
+- Security & compliance — secure by design, least privilege
+- Cost-aware cloud design — optimize for performance and cost
 
----
-
-**Source file:** docs/original/50-page-sandeep-career.docx
+Reference architectures include microservices with API gateways, event-driven integrations, and hybrid cloud designs for phased migration.

@@ -1,7 +1,6 @@
 # Python
 
-(Placeholder) — Python usage in backend, scripting, and data work.
-
----
-
-**Source file:** docs/original/50-page-sandeep-career.docx
+Python use-cases:
+- Data processing, ETL, and ML prototyping
+- Backend services with FastAPI or Django
+- Automation and scripting for platform operations

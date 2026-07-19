@@ -1,7 +1,7 @@
 # Microservices
 
-(Placeholder) — Microservices architecture, data patterns, and observability.
-
----
-
-**Source file:** docs/original/50-page-sandeep-career.docx
+Design considerations for microservices:
+- Bounded contexts and domain-driven design (DDD)
+- API contracts, versioning, and backward compatibility
+- Observability: distributed tracing, centralized logging
+- Data consistency approaches: eventual consistency, compensating transactions

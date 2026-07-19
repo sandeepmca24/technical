@@ -1,7 +1,7 @@
 # Resume
 
-(Placeholder) — Machine-readable resume / CV summary and downloadable PDF link.
+Sandeep Choudhary — Technical Architect
 
----
+Summary: 20+ years delivering enterprise web, commerce, and cloud solutions. Experienced in architecture, engineering management, and AI-enabled products.
 
-**Source file:** docs/original/50-page-sandeep-career.docx
+Download: add resume PDF to assets/ and link here.

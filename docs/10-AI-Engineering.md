@@ -1,7 +1,8 @@
 # AI Engineering
 
-(Placeholder) — AI engineering, RAG, LangChain, and LLM integrations.
+Applications of LLMs and retrieval-augmented generation (RAG):
+- Conversational assistants for commerce (product discovery, helpdesk)
+- Semantic search over product catalogs using vector databases
+- AI-assisted content generation and personalization
 
----
-
-**Source file:** docs/original/50-page-sandeep-career.docx
+Tools & frameworks: OpenAI APIs, LangChain, vector DBs (Milvus, Pinecone), embeddings and prompt engineering.

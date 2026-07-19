@@ -1,7 +1,8 @@
 # NextJS
 
-(Placeholder) — Next.js projects, SSR/SSG, and performance patterns.
+Next.js for hybrid SSR/SSG and edge-ready frontends:
+- Incremental Static Regeneration (ISR) for high-performance pages
+- API routes for light backend capabilities
+- Integration with headless commerce backends and GraphQL
 
----
-
-**Source file:** docs/original/50-page-sandeep-career.docx
+Advantages: SEO friendliness, performance, and developer ergonomics.

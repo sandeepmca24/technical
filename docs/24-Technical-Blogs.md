@@ -1,7 +1,8 @@
 # Technical Blogs
 
-(Placeholder) — Links and excerpts from technical blog posts.
+A collection of technical writings and thought leadership pieces covering architecture, cloud, commerce, and AI engineering. Add links to published posts and short summaries here.
 
----
-
-**Source file:** docs/original/50-page-sandeep-career.docx
+(Placeholder) Example topics:
+- Modernizing legacy e-commerce platforms
+- Building RAG-based search for product catalogs
+- Designing cost-efficient cloud architectures

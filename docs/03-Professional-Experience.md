@@ -1,7 +1,21 @@
 # Professional Experience
 
-(Placeholder) — Content to be added. Will include roles, responsibilities, achievements and timelines from the source document.
+### Tesco — Technical Manager
+- Led engineering teams responsible for enterprise digital platforms
+- Implemented architecture governance and CI/CD improvements
+- Drove cloud migration initiatives and operational improvements
 
----
+### TP Vision (Philips) — Technical Architect
+- Led LED configurator and product discovery projects
+- Built frontend applications with Nuxt/Vue and integrated Strapi CMS
+- Designed AWS integrations for product and telemetry systems
 
-**Source file:** docs/original/50-page-sandeep-career.docx
+### Kensium — Solution Architect
+- Designed commerce reference architectures and integrations
+- Led platform migrations to modern commerce stacks
+
+### Techouts — Technical Architect
+- Delivered digital commerce implementations for large retailers
+
+### LTIMindtree — Technical Module Lead
+- Managed enterprise digital transformation projects and global delivery
