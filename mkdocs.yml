@@ -1,0 +1,31 @@
+site_name: "Sandeep Choudhary — Enterprise Portfolio"
+site_description: "Enterprise architecture, cloud, commerce, and AI engineering portfolio"
+repo_name: sandeepmca24/technical
+nav:
+  - Home: README.md
+  - Executive Summary: docs/01-Executive-Summary.md
+  - Career Journey: docs/02-Career-Journey.md
+  - Professional Experience: docs/03-Professional-Experience.md
+  - Enterprise Projects: docs/04-Enterprise-Projects.md
+  - Enterprise Architecture: docs/05-Enterprise-Architecture.md
+  - System Design: docs/06-System-Design.md
+  - Shopify Plus: docs/07-Shopify-Plus.md
+  - Adobe Commerce: docs/08-Adobe-Commerce.md
+  - Headless Commerce: docs/09-Headless-Commerce.md
+  - AI Engineering: docs/10-AI-Engineering.md
+  - Azure: docs/11-Azure.md
+  - AWS: docs/12-AWS.md
+  - React: docs/13-React.md
+  - NextJS: docs/14-NextJS.md
+  - NodeJS: docs/15-NodeJS.md
+  - Python: docs/16-Python.md
+  - PHP: docs/17-PHP.md
+  - Microservices: docs/18-Microservices.md
+  - API: docs/19-API.md
+  - Performance: docs/20-Performance.md
+  - Security: docs/21-Security.md
+  - Leadership: docs/22-Leadership.md
+  - Interview Guide: docs/23-Interview-Guide.md
+  - Technical Blogs: docs/24-Technical-Blogs.md
+  - Certifications: docs/25-Certifications.md
+  - Resume: docs/26-Resume.md
